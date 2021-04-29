@@ -1,4 +1,3 @@
-# merip-seq
 #exomePeak R
 #Homo_sapiens.GRCh38.91.gtf from ensembl
 args=commandArgs(T)
